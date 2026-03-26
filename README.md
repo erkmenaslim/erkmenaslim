@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Erkmen G. Aslim**, an Assistant Professor of Economics at the University of Vermont.
+I'm **Erkmen G. Aslim**, an Assistant Professor of Economics at the University of Vermont. I am also a Research Affiliate at IZA@LISER.
 
 ## 🔬 Research Areas
 - Applied Microeconomics  
